@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+.linethrough{
+  margin: 26px 43px;  
+}
+
+.line-through{
+  margin: 26px 43px;
+  text-decoration: line-through;
+}
+
+.inputElements{
+  background-color: blue;
+  height: 100px;
+  width: 700px;
+  display: inline-block;
+  border: 5px solid grey;
+  border-radius: 15px;
+}
+.task{
+  margin: 35px 27px;
+  height: 26px;
+  border: 2px solid green;
+  border-radius: 5px;
+  background: cornsilk;
+}
+.desc{
+  margin: 35px 27px;
+  height: 26px;
+  border: 2px solid green;
+  border-radius: 5px;
+  background: cornsilk;
+}
+.addTask{
+  width: 60px;
+  height: 27px;
+  border-radius: 30px;
+  background: greenyellow;
+}
+.listOfTasks{
+  background-color: chartreuse;
+  height: 77px;
+  width: 678px;
+  display: ruby-text;
+  margin: 27px auto;
+  border: 3px solid red;
+  border-radius: 17px;
+  text-align: revert;
+}
+.deleteBtn{
+  background-color: red;
+  color: cyan;
+  height: 28px;
+  width: 76px;
+  border-radius: 9px;
+}
